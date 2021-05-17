@@ -1,7 +1,5 @@
 # Redux Store
 
-[![Badge for GitHub](https://img.shields.io/github/languages/top/davitshirkhanyan/redux-store?style=flat&logo=appveyor)](https://redux-heroku-store.herokuapp.com/)
-
 ## Description
 
 Shop Shop is an e-commerce application that allows users to shop for various items, add these products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
