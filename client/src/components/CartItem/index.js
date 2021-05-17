@@ -4,9 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { REMOVE_FROM_CART, UPDATE_CART_QUANTITY } from '../../utils/actions';
 
 const CartItem = ({ item }) => {
-    const state = useSelector((state) => {
-      return state;
-    });
+  const state = useSelector(state => state);
 
     const dispatch = useDispatch();
 

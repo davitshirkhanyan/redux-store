@@ -9,9 +9,7 @@ import {
 } from '../../utils/actions';
 
 function CategoryMenu() {
-const state = useSelector((state) => {
-  return state;
-});
+const state = useSelector(state => state);
 
 const dispatch = useDispatch();
 
